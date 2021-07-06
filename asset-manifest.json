@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2331f59.chunk.css",
-    "main.js": "/static/js/main.4df03817.chunk.js",
-    "main.js.map": "/static/js/main.4df03817.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8eef0cc3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8eef0cc3.js.map",
-    "static/js/2.c0fbd428.chunk.js": "/static/js/2.c0fbd428.chunk.js",
-    "static/js/2.c0fbd428.chunk.js.map": "/static/js/2.c0fbd428.chunk.js.map",
-    "static/js/3.1d036111.chunk.js": "/static/js/3.1d036111.chunk.js",
-    "static/js/3.1d036111.chunk.js.map": "/static/js/3.1d036111.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d2331f59.chunk.css.map": "/static/css/main.d2331f59.chunk.css.map",
-    "static/js/2.c0fbd428.chunk.js.LICENSE.txt": "/static/js/2.c0fbd428.chunk.js.LICENSE.txt",
-    "static/media/pointer-black.c7aa09b5.svg": "/static/media/pointer-black.c7aa09b5.svg",
-    "static/media/pointer-blue.b0c8e8f8.svg": "/static/media/pointer-blue.b0c8e8f8.svg",
-    "static/media/pointer-green.2fb7c0f5.svg": "/static/media/pointer-green.2fb7c0f5.svg",
-    "static/media/pointer-orange.937d5315.svg": "/static/media/pointer-orange.937d5315.svg",
-    "static/media/pointer-pink.95141f64.svg": "/static/media/pointer-pink.95141f64.svg",
-    "static/media/pointer-purple.9e93d070.svg": "/static/media/pointer-purple.9e93d070.svg",
-    "static/media/pointer-red.6d5155c8.svg": "/static/media/pointer-red.6d5155c8.svg",
-    "static/media/pointer-yellow.8e50e0bd.svg": "/static/media/pointer-yellow.8e50e0bd.svg"
+    "main.css": "/rainbow/static/css/main.0744ff4f.chunk.css",
+    "main.js": "/rainbow/static/js/main.ac075456.chunk.js",
+    "main.js.map": "/rainbow/static/js/main.ac075456.chunk.js.map",
+    "runtime-main.js": "/rainbow/static/js/runtime-main.6d307d76.js",
+    "runtime-main.js.map": "/rainbow/static/js/runtime-main.6d307d76.js.map",
+    "static/js/2.c0fbd428.chunk.js": "/rainbow/static/js/2.c0fbd428.chunk.js",
+    "static/js/2.c0fbd428.chunk.js.map": "/rainbow/static/js/2.c0fbd428.chunk.js.map",
+    "static/js/3.1d036111.chunk.js": "/rainbow/static/js/3.1d036111.chunk.js",
+    "static/js/3.1d036111.chunk.js.map": "/rainbow/static/js/3.1d036111.chunk.js.map",
+    "index.html": "/rainbow/index.html",
+    "static/css/main.0744ff4f.chunk.css.map": "/rainbow/static/css/main.0744ff4f.chunk.css.map",
+    "static/js/2.c0fbd428.chunk.js.LICENSE.txt": "/rainbow/static/js/2.c0fbd428.chunk.js.LICENSE.txt",
+    "static/media/pointer-black.c7aa09b5.svg": "/rainbow/static/media/pointer-black.c7aa09b5.svg",
+    "static/media/pointer-blue.b0c8e8f8.svg": "/rainbow/static/media/pointer-blue.b0c8e8f8.svg",
+    "static/media/pointer-green.2fb7c0f5.svg": "/rainbow/static/media/pointer-green.2fb7c0f5.svg",
+    "static/media/pointer-orange.937d5315.svg": "/rainbow/static/media/pointer-orange.937d5315.svg",
+    "static/media/pointer-pink.95141f64.svg": "/rainbow/static/media/pointer-pink.95141f64.svg",
+    "static/media/pointer-purple.9e93d070.svg": "/rainbow/static/media/pointer-purple.9e93d070.svg",
+    "static/media/pointer-red.6d5155c8.svg": "/rainbow/static/media/pointer-red.6d5155c8.svg",
+    "static/media/pointer-yellow.8e50e0bd.svg": "/rainbow/static/media/pointer-yellow.8e50e0bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8eef0cc3.js",
+    "static/js/runtime-main.6d307d76.js",
     "static/js/2.c0fbd428.chunk.js",
-    "static/css/main.d2331f59.chunk.css",
-    "static/js/main.4df03817.chunk.js"
+    "static/css/main.0744ff4f.chunk.css",
+    "static/js/main.ac075456.chunk.js"
   ]
 }
