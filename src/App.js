@@ -1,7 +1,11 @@
 import Rainbow from "./Rainbow/Rainbow";
 
 function App() {
-  return <Rainbow />;
+  return (
+    <div id="body">
+      <Rainbow />
+    </div>
+  );
 }
 
 export default App;
