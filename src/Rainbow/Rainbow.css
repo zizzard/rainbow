@@ -1,0 +1,49 @@
+html {
+  cursor: none;
+}
+
+.trail {
+  position: absolute;
+  height: 20px;
+  pointer-events: none;
+}
+
+.black {
+  color: black;
+  z-index: 9;
+}
+
+.red {
+  color: red;
+  z-index: 8;
+}
+
+.orange {
+  color: orange;
+  z-index: 7;
+}
+
+.yellow {
+  color: yellow;
+  z-index: 6;
+}
+
+.green {
+  color: green;
+  z-index: 5;
+}
+
+.blue {
+  color: blue;
+  z-index: 4;
+}
+
+.purple {
+  color: purple;
+  z-index: 3;
+}
+
+.pink {
+  color: pink;
+  z-index: 2;
+}
