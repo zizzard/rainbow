@@ -93,6 +93,7 @@ function Rainbow() {
   useEffect(() => {
     requestRef.current = requestAnimationFrame(animate);
     return () => cancelAnimationFrame(requestRef.current);
+    // eslint-disable-next-line
   }, []);
 
   return (
