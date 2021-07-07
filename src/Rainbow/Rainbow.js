@@ -5,36 +5,39 @@ import "./Rainbow.css";
 import pointer_black from "./pointers/pointer-black.svg";
 import pointer_red from "./pointers/pointer-red.svg";
 import pointer_orange from "./pointers/pointer-orange.svg";
+import pointer_yellow_orange from "./pointers/pointer-yellow-orange.svg";
 import pointer_yellow from "./pointers/pointer-yellow.svg";
 import pointer_green from "./pointers/pointer-green.svg";
+import pointer_blue_green from "./pointers/pointer-blue-green.svg";
 import pointer_blue from "./pointers/pointer-blue.svg";
 import pointer_purple from "./pointers/pointer-purple.svg";
-import pointer_pink from "./pointers/pointer-pink.svg";
 
 const COLORS = [
   "black",
   "red",
   "orange",
+  "yellow-orange",
   "yellow",
   "green",
+  "blue-green",
   "blue",
   "purple",
-  "pink",
 ];
 const SVG = [
   pointer_black,
   pointer_red,
   pointer_orange,
+  pointer_yellow_orange,
   pointer_yellow,
   pointer_green,
+  pointer_blue_green,
   pointer_blue,
   pointer_purple,
-  pointer_pink,
 ];
 
 const DEFAULT_X = 20;
 const DEFAULT_Y = 20;
-const NUM_COLORS = 8;
+const NUM_COLORS = 9;
 const SPEED_SCALE = 8; //lower is slower
 
 const DEFAULT_POSITIONS = [];

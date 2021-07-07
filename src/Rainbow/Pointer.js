@@ -7,7 +7,7 @@ function Pointer({ color, link, x, y }) {
     <>
       <img
         src={link}
-        className={"trail " + color}
+        className={"trail rainbow-" + color}
         style={position}
         alt={color}
       />

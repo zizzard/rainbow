@@ -6,44 +6,45 @@ html {
   position: absolute;
   height: 20px;
   pointer-events: none;
+  overflow: visible;
 }
 
-.black {
-  color: black;
+.rainbow-black {
+  z-index: 12;
+}
+
+.rainbow-red {
+  z-index: 11;
+}
+
+.rainbow-orange {
+  z-index: 10;
+}
+
+.rainbow-yellow-orange {
   z-index: 9;
 }
 
-.red {
-  color: red;
+.rainbow-yellow {
   z-index: 8;
 }
 
-.orange {
-  color: orange;
+.rainbow-green {
   z-index: 7;
 }
 
-.yellow {
-  color: yellow;
+.rainbow-blue-green {
   z-index: 6;
 }
 
-.green {
-  color: green;
+.rainbow-blue {
   z-index: 5;
 }
 
-.blue {
-  color: blue;
+.rainbow-purple {
   z-index: 4;
 }
 
-.purple {
-  color: purple;
+.rainbow-pink {
   z-index: 3;
-}
-
-.pink {
-  color: pink;
-  z-index: 2;
 }
